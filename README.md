@@ -8,7 +8,7 @@
 
 A data science project focused on exploring, visualizing, and modeling an Indian movies dataset. This project applies **Exploratory Data Analysis (EDA)**, **classification**, and **regression** techniques to uncover patterns and predict movie success metrics.
 
----
+--
 
 ## 📂 Project Structure
 
