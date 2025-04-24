@@ -1,5 +1,3 @@
-# Analysis-of-Movie-Dataset-Using-Exploratory-Data-Analysis-Classification-and-Regression
-
 # 🎬 Analysis of Indian Movie Dataset using EDA, Classification, and Regression
 
 ![License](https://img.shields.io/github/license/adityaranjan08/Analysis-of-Movie-Dataset-Using-Exploratory-Data-Analysis-Classification-and-Regression)
